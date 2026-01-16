@@ -1,4 +1,4 @@
-#📘 Beginner Python Projects
+# 📘 Beginner Python Projects
 
 This repository contains my early Python projects, created to build strong foundations in problem-solving, logical thinking, and mathematical reasoning.
 
